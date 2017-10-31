@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://******.com.br/%PUBLIC_URL%/sitemap.xml
